@@ -29,4 +29,17 @@
 * {
   font-family: 'body-regular';
 }
+
+.sidebar-icon{
+  border-radius: 50px;
+background: #ecedee;
+box-shadow:  11px 11px 11px #e0e1e2,
+             -11px -11px 11px #f8f9fa;
+
+}
+
+/* border-radius: 50px;
+background: #e0e0e0;
+box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff; */
 @tailwind utilities;
